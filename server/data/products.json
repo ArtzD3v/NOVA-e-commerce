@@ -1,0 +1,278 @@
+[
+    {
+        "id": "prod-001",
+        "name": "Fone Bluetooth Premium",
+        "description": "Fone de ouvido sem fio com cancelamento de ruído ativo, graves profundos e até 30h de bateria. Design ergonômico com almofadas de couro premium.",
+        "price": 349.90,
+        "originalPrice": 499.90,
+        "category": "Eletrônicos",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+            "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&q=80"
+        ],
+        "rating": 4.8,
+        "reviews": 234,
+        "stock": 45,
+        "badge": "Mais Vendido",
+        "features": [
+            "Bluetooth 5.3",
+            "ANC",
+            "30h Bateria",
+            "Microfone HD"
+        ]
+    },
+    {
+        "id": "prod-002",
+        "name": "Smartwatch Fitness Pro",
+        "description": "Relógio inteligente com GPS, monitor cardíaco, SpO2, e mais de 100 modos de exercício. Tela AMOLED de 1.4 polegadas com brilho automático.",
+        "price": 599.90,
+        "originalPrice": 799.90,
+        "category": "Eletrônicos",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80",
+            "https://images.unsplash.com/photo-1546868871-af0de0ae72be?w=500&q=80"
+        ],
+        "rating": 4.6,
+        "reviews": 189,
+        "stock": 32,
+        "badge": "Novo",
+        "features": [
+            "GPS Integrado",
+            "Monitor Cardíaco",
+            "SpO2",
+            "5ATM"
+        ]
+    },
+    {
+        "id": "prod-003",
+        "name": "Câmera Digital 4K",
+        "description": "Câmera mirrorless compacta com sensor APS-C de 26MP, gravação em 4K 60fps, estabilização de 5 eixos e Wi-Fi integrado.",
+        "price": 2899.90,
+        "originalPrice": 3499.90,
+        "category": "Eletrônicos",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&q=80"
+        ],
+        "rating": 4.9,
+        "reviews": 87,
+        "stock": 12,
+        "badge": "Premium",
+        "features": [
+            "26MP APS-C",
+            "4K 60fps",
+            "5-Axis IBIS",
+            "Wi-Fi"
+        ]
+    },
+    {
+        "id": "prod-004",
+        "name": "Jaqueta Premium Couro",
+        "description": "Jaqueta de couro sintético premium com forro térmico, bolsos internos e zíperes de alta qualidade. Corte moderno slim-fit.",
+        "price": 459.90,
+        "originalPrice": 659.90,
+        "category": "Moda",
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500&q=80",
+            "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=500&q=80"
+        ],
+        "rating": 4.5,
+        "reviews": 156,
+        "stock": 28,
+        "badge": "",
+        "features": [
+            "Couro Sintético",
+            "Forro Térmico",
+            "Slim Fit",
+            "Impermeável"
+        ]
+    },
+    {
+        "id": "prod-005",
+        "name": "Tênis Running Ultra",
+        "description": "Tênis de corrida com tecnologia de amortecimento em espuma reativa, cabedal em malha respirável e solado de carbono para máxima performance.",
+        "price": 699.90,
+        "originalPrice": 899.90,
+        "category": "Esportes",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&q=80",
+            "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500&q=80"
+        ],
+        "rating": 4.7,
+        "reviews": 312,
+        "stock": 54,
+        "badge": "Mais Vendido",
+        "features": [
+            "Espuma Reativa",
+            "Malha Respirável",
+            "Placa Carbono",
+            "Drop 8mm"
+        ]
+    },
+    {
+        "id": "prod-006",
+        "name": "Luminária LED Inteligente",
+        "description": "Luminária de mesa com LED RGB, controle por app e comando de voz, 10 níveis de brilho e temperatura de cor ajustável de 2700K a 6500K.",
+        "price": 189.90,
+        "originalPrice": 249.90,
+        "category": "Casa",
+        "image": "https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?w=500&q=80",
+            "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500&q=80"
+        ],
+        "rating": 4.4,
+        "reviews": 98,
+        "stock": 67,
+        "badge": "",
+        "features": [
+            "RGB 16M cores",
+            "App Control",
+            "Alexa/Google",
+            "Timer"
+        ]
+    },
+    {
+        "id": "prod-007",
+        "name": "Mochila Tech Urbana",
+        "description": "Mochila anti-furto com compartimento para laptop 15.6\", porta USB externa, tecido impermeável e sistema de ventilação nas costas.",
+        "price": 219.90,
+        "originalPrice": 299.90,
+        "category": "Acessórios",
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&q=80",
+            "https://images.unsplash.com/photo-1581605405669-fcdf81165b94?w=500&q=80"
+        ],
+        "rating": 4.6,
+        "reviews": 245,
+        "stock": 39,
+        "badge": "Oferta",
+        "features": [
+            "Anti-Furto",
+            "USB Externo",
+            "Impermeável",
+            "Laptop 15.6\""
+        ]
+    },
+    {
+        "id": "prod-008",
+        "name": "Caixa de Som Portátil",
+        "description": "Speaker Bluetooth à prova d'água IP67 com som 360°, 20W de potência, 12h de bateria e emparelhamento estéreo com 2 unidades.",
+        "price": 279.90,
+        "originalPrice": 349.90,
+        "category": "Eletrônicos",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&q=80",
+            "https://images.unsplash.com/photo-1589003077984-894e133dabab?w=500&q=80"
+        ],
+        "rating": 4.5,
+        "reviews": 178,
+        "stock": 41,
+        "badge": "",
+        "features": [
+            "IP67",
+            "Som 360°",
+            "20W RMS",
+            "12h Bateria"
+        ]
+    },
+    {
+        "id": "prod-009",
+        "name": "Óculos de Sol Polarizado",
+        "description": "Óculos de sol com lentes polarizadas UV400, armação em acetato italiano, design clássico aviador com detalhes em metal dourado.",
+        "price": 329.90,
+        "originalPrice": 459.90,
+        "category": "Moda",
+        "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&q=80",
+            "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&q=80"
+        ],
+        "rating": 4.3,
+        "reviews": 134,
+        "stock": 52,
+        "badge": "28% OFF",
+        "features": [
+            "Polarizado",
+            "UV400",
+            "Acetato Italiano",
+            "Aviador"
+        ]
+    },
+    {
+        "id": "prod-010",
+        "name": "Kit Yoga Premium",
+        "description": "Kit completo de yoga com tapete antiderrapante TPE 6mm, bloco de EVA, cinta de alongamento e bolsa de transporte. Ecológico e hipoalergênico.",
+        "price": 189.90,
+        "originalPrice": 259.90,
+        "category": "Esportes",
+        "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500&q=80",
+            "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500&q=80"
+        ],
+        "rating": 4.7,
+        "reviews": 201,
+        "stock": 35,
+        "badge": "",
+        "features": [
+            "TPE Ecológico",
+            "Antiderrapante",
+            "Kit Completo",
+            "Bolsa Inclusa"
+        ]
+    },
+    {
+        "id": "prod-011",
+        "name": "Cadeira Gamer Ergonômica",
+        "description": "Cadeira gamer com reclinação 180°, apoio lombar magnético, braços 4D ajustáveis, base de alumínio e rodízios silenciosos de poliuretano.",
+        "price": 1299.90,
+        "originalPrice": 1799.90,
+        "category": "Casa",
+        "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=500&q=80",
+            "https://images.unsplash.com/photo-1616627547584-bf28cee262db?w=500&q=80"
+        ],
+        "rating": 4.8,
+        "reviews": 167,
+        "stock": 18,
+        "badge": "28% OFF",
+        "features": [
+            "Recline 180°",
+            "Lombar Magnético",
+            "Braços 4D",
+            "Base Alumínio"
+        ]
+    },
+    {
+        "id": "prod-012",
+        "name": "Perfume Luxo Unissex",
+        "description": "Eau de Parfum unissex com notas de bergamota, âmbar e madeira de sândalo. Longa duração de até 12 horas. Frasco premium de 100ml.",
+        "price": 389.90,
+        "originalPrice": 529.90,
+        "category": "Acessórios",
+        "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=500&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1541643600914-78b084683601?w=500&q=80",
+            "https://images.unsplash.com/photo-1594035910387-fea081827afe?w=500&q=80"
+        ],
+        "rating": 4.9,
+        "reviews": 289,
+        "stock": 23,
+        "badge": "Premium",
+        "features": [
+            "EDP 100ml",
+            "12h Duração",
+            "Unissex",
+            "Frasco Premium"
+        ]
+    }
+]
